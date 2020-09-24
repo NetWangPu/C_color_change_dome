@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="蹦迪代码.c">
+    <ClCompile Include="color-change.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
